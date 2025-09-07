@@ -1,6 +1,33 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌱 Kale Pension Fund - DeFi Pension Platform
 
-## Getting Started
+A revolutionary decentralized pension fund platform built on the Stellar blockchain, offering automated portfolio management, risk assessment, and rebalancing for long-term wealth building with KALE tokens.
+
+![Kale Pension Fund](https://img.shields.io/badge/Kale-Pension%20Fund-FFD800?style=for-the-badge&logo=stellar)
+![Stellar](https://img.shields.io/badge/Stellar-Network-7B2CBF?style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-15.4.6-000000?style=for-the-badge&logo=next.js)
+![Rust](https://img.shields.io/badge/Rust-Soroban-000000?style=for-the-badge&logo=rust)
+
+## 🌟 Overview
+
+The Kale Pension Fund is a comprehensive DeFi platform that provides:
+
+- **Automated Portfolio Management**: Smart contract-based investment strategies
+- **Risk-Based Allocations**: Conservative, Moderate, and Aggressive profiles
+- **Real-time Rebalancing**: Automated portfolio optimization
+- **Oracle Integration**: Real-time price feeds via Reflector Oracle
+- **User-Friendly Interface**: Modern React-based dashboard
+- **Secure Transactions**: Built on Stellar's proven blockchain technology
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js 18+ and npm
+- Rust and Cargo
+- Stellar CLI (soroban)
+- Git
+
+### Quick Start
 
 First, run the development server:
 
